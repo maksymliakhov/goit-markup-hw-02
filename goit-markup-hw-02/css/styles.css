@@ -1,0 +1,116 @@
+.body {font-family: "Roboto", "Raleway", "sans-serif";}
+
+a {text-decoration: none}
+ul, ol {list-style-type: none;}
+button {cursor: pointer;}
+
+
+
+
+/* #region Heder */
+
+.header-page {}
+
+.nav-list :hover,
+.nav-list :focus {
+color: #404bbf;
+}
+.address :hover,
+.address :focus {
+color: #404bbf;
+}
+
+
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+.logo-style 
+{
+    color: #4D5AE5;
+}
+
+.nav-item-link {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.nav-item-link :hover,
+.nav-item-link :focus {
+    color: #000000;
+    width: 48px;
+    height: 52px;
+}
+
+/* #endregion */
+
+
+/* #region Hero */
+.hero {
+    background-color: #2e2f42;
+}
+
+.hero-title {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff 
+}
+
+.hero-btn {
+        font-weight: 500;
+        font-size: 16px;
+        color: #ffffff; 
+        background-color: #4d5ae5;
+}
+
+.hero-btn :hover,
+.hero-btn :focus {
+    background-color: #404BBF;
+}
+
+/* #endregion */
+
+/* #region body */
+
+.title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+/* #endregion */
+
+/* #region Footer */
+.footer {
+    background-color: #2e2f42;
+}
+
+.logo-footer {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        color:#F4F4FD;
+}
+
+.logo-footer-style{
+    color: #4D5AE5;
+}
+
+/* #endregion */
+
+
