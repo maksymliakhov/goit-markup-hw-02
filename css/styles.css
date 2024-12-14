@@ -31,14 +31,14 @@ color: #404bbf;
 color: #404bbf;
 }
 
-.address-mail {
+.address-mail-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
 
-.address-phone {
+.address-phone-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -104,11 +104,10 @@ color: #404bbf;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff; 
-        background-color: #4d5ae5;
+        background-color: #4D5AE5;
 }
 
-.hero-btn :hover,
-.hero-btn :focus {
+.hero-btn :hover,.hero-btn :focus {
         background-color: #404BBF;
 }
 
