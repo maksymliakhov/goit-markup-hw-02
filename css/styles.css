@@ -121,11 +121,9 @@ color: #404bbf;
     color: #ffffff;
 }
 
-
 .team-descr {
    background-color: #F4F4FD  
 }
-
 
 .our-team {
     font-size: 36px;
@@ -134,6 +132,9 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+.background-team {
+    background-color: #FFFFFF;
 }
 
 .team-list {
