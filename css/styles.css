@@ -36,20 +36,12 @@ color: #404bbf;
 color: #404bbf;
 }
 
-.address-mail-link {
+.address-mail-phone-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
-
-.address-phone-link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -112,9 +104,8 @@ color: #404bbf;
         background-color: #4D5AE5;
 }
 
-.hero-btn :hover,.hero-btn :focus {
-        background-color: #404BBF;
-}
+.hero-btn:hover { background-color: #404BBF; }
+.hero-btn:focus { background-color: #404BBF;}
 
 /* #endregion */
 
