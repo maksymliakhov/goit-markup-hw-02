@@ -70,8 +70,6 @@ body {
 .nav-item-link :hover,
 .nav-item-link :focus {
     color: #404bbf;
-    width: 48px;
-    height: 52px;
 }
 
 /* #endregion */
